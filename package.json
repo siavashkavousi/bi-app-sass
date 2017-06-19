@@ -1,17 +1,17 @@
 {
-  "name": "bi-app-sass",
-  "version": "1.1.0",
-  "description": "writing bi-directional stylesheets in sass",
+  "name": "bi-app-stylus",
+  "version": "0.9",
+  "description": "writing bi-directional stylesheets in stylus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anasnakawa/bi-app-sass.git"
+    "url": "https://github.com/siavashkavousi/bi-app-stylus.git"
   },
   "keywords": [
-    "sass",
+    "stylus",
     "css",
     "bidi",
     "bi-directional",
@@ -21,9 +21,9 @@
   "author": "Anas Nakawa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anasnakawa/bi-app-sass/issues"
+    "url": "https://github.com/siavashkavousi/bi-app-stylus/issues"
   },
-  "homepage": "https://github.com/anasnakawa/bi-app-sass",
+  "homepage": "https://github.com/siavashkavousi/bi-app-stylus",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-release": "^0.13.0"
